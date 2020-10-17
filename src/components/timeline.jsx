@@ -8,7 +8,6 @@ export default class Timeline extends Component {
           <div className="colorlib-narrow-content">
             <div className="row">
               <div className="col-md-6 col-md-offset-3 col-md-pull-3 animate-box" data-animate-effect="fadeInLeft">
-                <span className="heading-meta">highlights</span>
                 <h2 className="colorlib-heading animate-box">Timeline</h2>
               </div>
             </div>
@@ -21,7 +20,8 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Software Engineer at Chemical Abstracts Service <span>9/2018-present</span></h2>
+                        <h2>Software Engineer - Chemical Abstracts Service <span>9/2018-present</span>                            
+                        </h2>
                         <p>
                         • Develop CAS content REST APIs to allow integration and optimization of business workflows with the
 world’s most comprehensive and reliable collection of scientific research information. (∼11 petabytes)
@@ -48,7 +48,7 @@ world’s most comprehensive and reliable collection of scientific research info
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Cloud Data Consultant at Cardinal Health <span>2/2018 - 7/2018</span></h2>
+                        <h2>Cloud Data Consultant - Cardinal Health <span>2/2018 - 7/2018</span></h2>
                         <p>
                         • Lead developer for Python project used in the data-ingestion pipeline for transferring data from Cardinal
  Health’s newly acquired companies.
@@ -68,7 +68,7 @@ world’s most comprehensive and reliable collection of scientific research info
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Full Stack Developer at IQ Innovations <span>1/2017 - 2/2018</span></h2>
+                        <h2>Full Stack Developer - IQ Innovations <span>1/2017 - 2/2018</span></h2>
                         <p>
                         • Feature development and bug fixes for applications used in web and mobile.(ex. adding new item types to
 assessments, giving teachers and students more assessment interaction options)
@@ -88,7 +88,7 @@ assessments, giving teachers and students more assessment interaction options)
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>DevOps at Lab-Ally <span>9/2016 - 10/2016</span></h2>
+                        <h2>DevOps - Lab-Ally <span>9/2016 - 10/2016</span></h2>
                         <p>
                         • Diagnose and repair build issues to a stable environment to meet company’s release deadline.
                         </p>
@@ -107,8 +107,7 @@ assessments, giving teachers and students more assessment interaction options)
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Higher Education<span>5/2016</span></h2>
-                        <p>B.S. Computer Science at Case Western Reserver University</p> 
+                        <h2>B.S. Computer Science - Case Western Reserve University <span>5/2016</span></h2>
                       </div>
                     </div>
                   </article>
