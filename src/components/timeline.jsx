@@ -14,13 +14,39 @@ export default class Timeline extends Component {
             <div className="row">
               <div className="col-md-12">
                 <div className="timeline-centered">
-                  <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
+                <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
                     <div className="timeline-entry-inner">
                       <div className="timeline-icon color-1">
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Software Engineer - Chemical Abstracts Service <span>9/2018-present</span>                            
+                        <h2>Senior Software Engineer - Imagine Learning <span>11/2020-10/2024</span>
+                        </h2>
+                        <p>
+                        • Engineered platform as a service hosted with Kubernetes, enabling teams to build and deploy artifacts with a focus on automation, guardrails, and self-service tools.
+                        </p>
+                        <p>
+                        • Supported developers with platform-related issues, optimizing resolution of common problems, enhancing user experience, and reducing costs.
+                        </p>
+                        <p>
+                        • Developed a content management system for teachers and content authors to create courseware and curriculum content used across Imagine Learning products.
+                        </p>
+                        <p>
+                        • Led creation of an events collector service acting as a proxy to the events service, ensuring data integrity during service outages with DynamoDB failover logic.
+                        </p>
+                        <p>
+                        • Worked with backend layer of 30+ services to provide content and ui components to display the content.
+                        </p>
+                      </div>
+                    </div>
+                  </article>
+                  <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
+                    <div className="timeline-entry-inner">
+                      <div className="timeline-icon color-2">
+                        <i className="icon-pen2" />
+                      </div>
+                      <div className="timeline-label">
+                        <h2>Software Engineer - Chemical Abstracts Service <span>9/2018-11/2020</span>
                         </h2>
                         <p>
                         • Develop CAS content REST APIs to allow integration and optimization of business workflows with the
@@ -38,13 +64,13 @@ world’s most comprehensive and reliable collection of scientific research info
                         <p>
                           • Train and support members of the team and determine future work to achieve team and company goals.
                         </p>
-                        <p><a className="btn btn-primary btn-learn" href="https://www.cas.org/services/workflow-integration?utm_source=linkedin&utm_medium=cas&utm_term=&utm_content=&utm_campaign=" target="_blank" rel="noopener noreferrer">Related Link<i className="icon-book" /></a></p>
+                        <p><a className="btn btn-primary btn-learn" href="https://www.cas.org/solutions/cas-custom-services" target="_blank" rel="noopener noreferrer">Related Link<i className="icon-book" /></a></p>
                       </div>
                     </div>
                   </article>
                   <article className="timeline-entry animate-box" data-animate-effect="fadeInTop">
                     <div className="timeline-entry-inner">
-                      <div className="timeline-icon color-2">
+                      <div className="timeline-icon color-3">
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
@@ -64,7 +90,7 @@ world’s most comprehensive and reliable collection of scientific research info
                   </article>
                   <article className="timeline-entry animate-box" data-animate-effect="fadeInTop">
                     <div className="timeline-entry-inner">
-                      <div className="timeline-icon color-3">
+                      <div className="timeline-icon color-4">
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
@@ -84,7 +110,7 @@ assessments, giving teachers and students more assessment interaction options)
                   </article>
                   <article className="timeline-entry animate-box" data-animate-effect="fadeInTop">
                     <div className="timeline-entry-inner">
-                      <div className="timeline-icon color-4">
+                      <div className="timeline-icon color-5">
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
@@ -103,7 +129,7 @@ assessments, giving teachers and students more assessment interaction options)
                   </article>
                   <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
                     <div className="timeline-entry-inner">
-                      <div className="timeline-icon color-5">
+                      <div className="timeline-icon color-6">
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">

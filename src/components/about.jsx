@@ -12,7 +12,7 @@ export default class About extends Component {
                                     <div className="col-md-12">
                                         <div className="about-desc">
                                             <h2 className="colorlib-heading">About Me</h2>
-                                            <p>I am a software consultant at Manifest Solutions with development, testing, and devops experience. I have worked with companies ranging from Fortune 50 to startups. And I am also an instructor in the Manifest Solutions bootcamp program.</p>
+                                            <p>I am a software engineer with development, testing, and devops experience based in NYC. I have worked with companies ranging from Fortune 50 to startups.</p>
                                             <p>I have a bachelors of science degree in computer science from Case Western Reserve University. When not writing code I enjoy playing ultimate frisbee, hiking, and cooking up new things!</p>
                                         </div>
                                     </div>

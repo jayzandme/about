@@ -45,7 +45,7 @@ export default class Introduction extends Component {
                       <div className="slider-text-inner">
                         <div className="desc">
                           <h1 class="intro">I'm a conference speaker</h1>
-                          <p><a className="btn btn-primary btn-learn" href="https://www.codemash.org/session-details/?id=145851" target="_blank" rel="noopener noreferrer">View My Last Session <i className="icon-head" /></a></p>
+                          <p><a className="btn btn-primary btn-learn" href="https://github.com/jayzandme/aws-glue-tutorial" target="_blank" rel="noopener noreferrer">View My Last Session <i className="icon-head" /></a></p>
                         </div>
                       </div>
                     </div>
